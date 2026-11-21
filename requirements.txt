@@ -1,0 +1,9 @@
+
+streamlit
+pandas
+numpy
+plotly
+huggingface_hub
+python-dotenv
+reportlab
+requests
